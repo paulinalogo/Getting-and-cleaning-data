@@ -1,13 +1,19 @@
 # Getting-and-cleaning-data - Course Project
 
 ==============================================
+
  run_analysis.R script 
+ 
 =============================================
 
 Paulina Lopez Gonzalez
+
 Getting and cleaning data
+
 Johns Hopkins Coursera MOOC
+
 Course project
+
 08/18/2015
 
 ============================================
