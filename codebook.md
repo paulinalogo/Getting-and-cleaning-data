@@ -4,7 +4,7 @@
 ==================================
 
 The test_train_tidy.txt dataset is a modification of Smartlab's Human Activity Recognition Using Smartphones Dataset. It has 180 observations of 68 variables. The following variables are contained in the dataset:
-================================================================
+
 
 1. subject: subject ID (integer ranging from 1 to 30)
 2. activity: performed activity (factor variable with 6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
