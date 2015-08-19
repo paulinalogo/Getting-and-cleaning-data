@@ -28,7 +28,7 @@ The variable fBodyBodyAccJerkMag-std()  is the average value by subject and acti
 Thus, each measurement variable in the dataset is the average value by subject and activity of the corresponding feature value.
 
 
-
+####Variables in the test_train_tidy.txt dataset
 
 1. subject: subject ID (integer ranging from 1 to 30)
 2. activity: performed activity (factor variable with 6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
