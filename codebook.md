@@ -8,10 +8,15 @@ The test_train_tidy.txt dataset is a modification of Smartlab's Human Activity R
 The description of the selected features measurements (from which the average values by subject and activity are presented in the measurement variables of the test_train_tidy.txt dataset) is as follows:
 
 -The features come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
+
 -The acceleration signal is separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ).
+
 -The body linear acceleration and angular velocity were derived in time to obtain Jerk signals (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ). Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag).
+
 -The prefix 't' refers to time domain signals, whereas the prefix 'f' refers to the frequency domain signals.
+
 -The features of the form prefixSignal-mean()-axis contain the mean value of the corresponding signal, whereas the features of the form prefixSignal-std()-axis contain the standard deviation value of the corresponding signal.
+
 -Finally, the X,Y or Z letters at the end of each variable name indicate the axis to which the signals correspond.
 
 An example to better explain the variables contained in presented:
