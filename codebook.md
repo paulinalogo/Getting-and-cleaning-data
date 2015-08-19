@@ -7,10 +7,12 @@ The test_train_tidy.txt dataset is a modification of Smartlab's Human Activity R
 
 ### ID variables
 
+
 subject: subject ID (integer ranging from 1 to 30)
 activity: performed activity (factor variable with 6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
 ### Measurement variables
+
 
 tBodyAcc-XYZ
 tGravityAcc-XYZ
