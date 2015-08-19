@@ -15,7 +15,9 @@ activity: performed activity (factor variable with 6 levels: WALKING, WALKING_UP
 
 
 tBodyAcc-XYZ
+
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
 tBodyGyro-XYZ
 tBodyGyroJerk-XYZ
