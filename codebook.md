@@ -11,7 +11,7 @@ The test_train_tidy.txt dataset is a modification of Smartlab's Human Activity R
 3. tBodyAcc-mean()-X 
 4. tBodyAcc-mean()-Y       
 5. tBodyAcc-mean()-Z 
-6.tBodyAcc-std()-X   
+6. tBodyAcc-std()-X   
 7. tBodyAcc-std()-Y          
 8. tBodyAcc-std()-Z          
 9. tGravityAcc-mean()-X      
